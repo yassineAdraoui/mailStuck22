@@ -1,0 +1,5 @@
+{
+  "name": "Executive Email Assistant",
+  "description": "A streamlined tool for busy executives to summarize and prioritize incoming emails using Gemini AI. It converts lengthy communications into actionable single-sentence summaries with priority scoring.",
+  "requestFramePermissions": []
+}
